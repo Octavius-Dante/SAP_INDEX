@@ -1,4 +1,4 @@
-# SAP_INDEX
+# SAP_GIT_INDEX
 Index file for Essential SAP related repositories
 
 
