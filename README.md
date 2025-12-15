@@ -15,7 +15,7 @@ Index file for Essential SAP related repositories
 
 ## Other Repositories for learning 
 
-- [ODATA project](https://github.com/Octavius-Dante/GATEWAY_ODATA_PROJECT)
+- [Personal ODATA project for All SAP Cloud and Webdevelopments](https://github.com/Octavius-Dante/GATEWAY_ODATA_PROJECT)
 - ABAP TO GIT -[1](https://www.youtube.com/watch?v=B98jOriYL4I) | [2](https://www.youtube.com/watch?v=pEY5I29pIak)
 - [SAP SECURITY SERVICE TOOLS](https://github.com/Octavius-Dante/SAP-security-services-tools)
 - [SAP ABAP 7.5 -personal](https://github.com/Octavius-Dante/SAP-ABAP-7.5-syntax) | [SAP OFFICIAL CHEAT SHEET - ABAP](https://github.com/SAP-samples/abap-cheat-sheets)
