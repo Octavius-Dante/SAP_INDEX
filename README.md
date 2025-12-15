@@ -15,6 +15,7 @@ Index file for Essential SAP related repositories
 
 ## Other Repositories for learning 
 
+- [SAP cloud appliance library](https://cal.sap.com/catalog#/applianceTemplates)
 - [Personal ODATA project for All SAP Cloud and Webdevelopments](https://github.com/Octavius-Dante/GATEWAY_ODATA_PROJECT)
 - ABAP TO GIT -[1](https://www.youtube.com/watch?v=B98jOriYL4I) | [2](https://www.youtube.com/watch?v=pEY5I29pIak)
 - [SAP SECURITY SERVICE TOOLS](https://github.com/Octavius-Dante/SAP-security-services-tools)
