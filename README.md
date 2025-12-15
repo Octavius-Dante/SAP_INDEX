@@ -7,7 +7,11 @@ Index file for Essential SAP related repositories
 - 3 [BTP CAP - Tetra-Proxima ](https://github.com/Octavius-Dante/Tetra-Proxima)
 - 4 [WIP- Nexa-Proxima](https://github.com/Octavius-Dante/Nexa-Proxima) <<<<< change the repo to SAC or Datasphere
 - 5 [CPKC - Sephra-Proxima](https://github.com/Octavius-Dante/Sephra-Proxima-CPKC)
-- 6 [SAP Integration Suite - CPI](https://github.com/Octavius-Dante/Ultra-Proxima) <<<<< Work in progress
+- 6 [*SAP Integration Suite - CPI](https://github.com/Octavius-Dante/Ultra-Proxima) <<<<< Work in progress
+- 7 [*SAC]()
+- 8 [*DATASPHERE]()
+- 9 [*MM]()
+- 10 [*ARIBA]()
 
 ## Other Repositories for learning 
 
