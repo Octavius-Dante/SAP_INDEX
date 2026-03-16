@@ -7,11 +7,10 @@ Index file for Essential SAP related repositories
 - 1 [ABAP - Nova-Proxima](https://github.com/Octavius-Dante/Nova-Proxima)
 - 2 [^Fiori - Arthelais](https://github.com/Octavius-Dante/Arthelais)
 - 3 [^BTP CAP - Tetra-Proxima ](https://github.com/Octavius-Dante/Tetra-Proxima)
-- 4 [WIP- Nexa-Proxima](https://github.com/Octavius-Dante/Nexa-Proxima) <<<<< change the repo to SAC or Datasphere
+- 4 [WIP- Nexa-Proxima - *DATASPHERE](https://github.com/Octavius-Dante/Nexa-Proxima) <<<<< change the repo to SAC or Datasphere
 - 5 [CPKC - Sephra-Proxima](https://github.com/Octavius-Dante/Sephra-Proxima-CPKC)
 - 6 [*SAP Integration Suite - CPI](https://github.com/Octavius-Dante/Ultra-Proxima) <<<<< Work in progress
-- 7 [*SAP FICO - TRM - VIM - BRIM - FICA]()
-- 8 [*DATASPHERE]()
+- 7 [*SAP FICO - TRM - VIM - BRIM - FICA](https://github.com/Octavius-Dante/SAP-Finance) <<<<< Work in progress
 
 
 ## Other repositories for information
